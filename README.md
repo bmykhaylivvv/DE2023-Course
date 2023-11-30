@@ -1,1 +1,1 @@
-# de2023-course
+# DE2023-Course
